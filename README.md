@@ -57,15 +57,6 @@ Deployment Workflow:
 10. Configured CloudWatch dashboards and alarms.
 11. Configured SNS notifications for monitoring.
     
-Repository Structure:
-aws-highly-available-web-application/
-├── architecture/
-├── application/
-├── documentation/
-├── screenshots/
-├── scripts/
-└── README.md
-
 Future Enhancements:
 - Infrastructure as Code using Terraform
 - CI/CD using GitHub Actions
