@@ -1,0 +1,1 @@
+console.log("AWS Highly Available Web Application Loaded Successfully");
